@@ -14,9 +14,11 @@ Python and Visual Component Tool
 5. Applicable when events occur independently, singly, and at a constant rate.
 # Algorithm
 <img width="1144" height="412" alt="image" src="https://github.com/user-attachments/assets/6bf357bd-7ba2-4908-8c93-ef74e4747a4f" />
+
 # Name: LOGESH R
 # Reg No: 25005440
 # Slot No: 3P1-1
+
 # Program
 ```
 import numpy as np
